@@ -47,7 +47,7 @@ def generate_output(text):
                      unsafe_allow_html=True)
      st.markdown(cats)
 
-nlp = get_nlp_model('finalmodel')
+nlp = get_nlp_model('finalmodelmini')
 
 desc = "This web app predicts the probability of a customer disputing or not based on his/her complaint.\
         You can enter the customer complaint in English in the text box below and get the final verdict along with the probability for both the cases."
