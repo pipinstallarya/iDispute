@@ -1,9 +1,0 @@
-{
-  "exclusive_classes":true,
-  "architecture":"simplecnn",
-  "labels":[
-    "DISPUTED",
-    "NOT DISPUTED"
-  ],
-  "pretrained_vectors":"en_core_web_md.vectors"
-}
